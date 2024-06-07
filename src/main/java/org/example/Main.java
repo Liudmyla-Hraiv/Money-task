@@ -5,7 +5,7 @@ public class Main {
         int S1= 100; // $ deposit
         int V= 5; // interest rate  per year
         int S2 =200; //$ need received
-        //How many years needed ???
+        // Count how long it be.
         /*  s1+(s1*v/100) => 1 year
             s1(1 + v/100)^n = s2  => N years
             (1 + v/100)^n = s2/s1
